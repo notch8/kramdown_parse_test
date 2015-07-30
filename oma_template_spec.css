@@ -1,0 +1,47 @@
+body{
+  background-image: url(https://openmobilealliance.github.io/Tools/assets/draft.png);
+  background-repeat: no-repeat;
+  padding: 2em 2em 2em 4em;
+  margin: 0;
+  font-family: sans-serif;
+  color: black;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+table, th, td{
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#content{
+  margin: 0 40px;
+}
+
+
+h1, h2, h3{
+  color: #005A9C;;
+}
+
+h2{
+  font: 140% sans-serif;
+}
+
+dt{
+  font-weight: bold;
+}
+
+blockquote{
+  padding: .5em;
+  border-left: .5em solid #e0cb52;
+  background-color: #fcfaee;
+  margin-left: 0px;
+}
+
+blockquote h4{
+  color: #b9ab2d;
+}
+
+
