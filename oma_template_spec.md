@@ -66,8 +66,19 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
     |     | Column1       | Column2       |
     |-----|---------------|---------------|
-    | Row1|       This should work       ||
+    | Row1|       This should work     |<=|
     | Row2| Grid 2,1 data | Grid 1,1 data |
+
+    |     | Column1       | Column2       |
+    |-----|---------------|---------------|
+    | Row1|<=|                   Hey there|
+    | Row2| Grid 2,1 data | Grid 1,1 data |
+
+    |     | Column1       | Column2       | Column3       |
+    |-----|---------------|---------------|---------------|
+    | Row1|             <=|             <=|      Hey there|
+    | Row2| Grid 2,1 data |     <=        |    something  |
+
 
     Fig. 1.2 Should not have colspan
 
