@@ -43,23 +43,41 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 ### Table of Contents
 
-### Table of Figures
+#### Table of Figures
 
 ### Table of Tables
 
-1. ### Scope
-    > #### EXAMPLE 1
+1. #### Scope
+    > ## EXAMPLE 1
     > Define as it relates to Open Mobile Alliance Activity. If it adds clarity, define what is not in the scope.
     >
     > DELETE THIS COMMENT.
 
-2. ### Terminology and Conventsions
-    1. ### Conventions
+2. #### Terminology and Convensions
+
+    |     | Column1       | Column2       |
+    |-----|---------------|---------------|
+    | Row1| Grid 1,1 data | Grid 1,2 data |
+    | Row2| Grid 2,1 data | Grid 1,1 data |
+
+    Fig. 1.1 Example colspan table.
+    |     | Column1       | Column2       |
+    |-----|---------------|---------------|
+    | Row1|       This should work       ||
+    | Row2| Grid 2,1 data | Grid 1,1 data |
+
+    Fig. 1.2 Example rowspan table.
+    |     | Column1       | Column2       |
+    |-----|---------------|---------------|
+    | Row1| Grid 1,1 data | Grid 1,2 data |
+    | Row2| Grid 2,1 data | Grid 1,1 data |
+
+    1. ##### Conventions
         The key words “must”, “must not”, “required”, “shall”, “shall not”, “should”, “should not”, “recommended”, “may”, and “optional” in this document are to be interpreted as described in [RFC2119].
 
         All sections and appendixes, except “Scope” and “Introduction”, are normative, unless they are explicitly indicated to be informative.
 
-    2. ### Definitions
+    2. ##### Definitions
         Definition Title 1
           : Defintion Data 1 (description).
 
@@ -68,15 +86,15 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
         Kindly consult [OMADICT][] for more definitions used in this document.
 
-    3. ### Abreviations
+    3. ##### Abreviations
         Abbreviation 1
           : Definition Data for Abbreviation 1.
         Abbreviation 2
           : Definition Data for Abbreviation 2.
     Kindly consult [OMADICT][] for more abbreviations used in this document.
 
-3. ### Introduction
-    > #### EXAMPLE 2
+3. #### Introduction
+    > ##### EXAMPLE 2
     > From a market perspective...
     >
     > * What can you do with this specification?
@@ -85,39 +103,39 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     > * Consider the target audience and provide deployment examples as possible.
     > **TO BE DELETED.**
 
-    1. ### Version 1.0
-        > #### EXAMPLE 3
+    1. ##### Version 1.0
+        > ###### EXAMPLE 3
         > This section provides a high level, concise and informative description of the main functionality supported in the initial version of the specification.
         >
         > The description should be brief, target length should be a few paragraphs. When the enabler or reference release is finished, this description should be aligned with the final functionality.
         >
         > **DELETE THIS COMMENT.**
 
-    2. ### Version x.y
-        > #### EXAMPLE 4
+    2. ##### Version x.y
+        > ###### EXAMPLE 4
         > This section should be included for each new major or minor version of the specifications. It should provide a high level, concise and informative description of the new or modified functionaliy introduced in this version of the specification, compared to the previous version.
         >
         > The description should be brief, target lenght should be a few paragraphs. When the enabler or reference release is finished, this description should be aligned with the final functionality differences.
         >
         > **DELETE THIS COMMENT.**
-    3. ### Version x.y.z
-        > #### EXAMPLE 5
+    3. ##### Version x.y.z
+        > ###### EXAMPLE 5
         > This section should be included for each new service release of the specification.
         >
         > It should describe at at high level the main changes made to the specification compared to the previous version. The description should be brief, target lenght should be one paragraph.
         >
         > **DELETE THIS COMMENT**
 
-4. ### Sections As Needed
-    > #### EXAMPLE 6
+4. #### Sections As Needed
+    > ##### EXAMPLE 6
     > Sections for the normative specification text. Fill in as needed.
     >
     > The following validates the styles used for the headers.
     >
     > **DELETE THIS COMMENT.**
 
-    1. ### Example Level 2
-        > #### EXAMPLE 7
+    1. ##### Example Level 2
+        > ###### EXAMPLE 7
         > Sections for the normative specification text. Fill in as needed.
         >
         > The following validates the styles used for the headers.
@@ -125,16 +143,16 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         > **DELETE THIS COMMENT.**
 
 
-        1. #### Example Level 3
-            > #### EXAMPLE 8
+        1. ###### Example Level 3
+            > ####### EXAMPLE 8
             > Sections for the normative specification text. Fill in as needed.
             >
             > The following validates the styles used for the headers.
             >
             > **DELETE THIS COMMENT.**
 
-            1. ##### Example Level 4
-              > #### EXAMPLE 9
+            1. ####### Example Level 4
+              > ######## EXAMPLE 9
               > Sections for the normative specification text. Fill in as needed.
               >
               > The following validates the styles used for the headers.
@@ -143,15 +161,11 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
               Fig. 1 Example Figure
 
-              |     | Column1       | Column2       |
-              |-----|---------------|---------------|
-              | Row1| Grid 1,1 data | Grid 1,2 data |
-              | Row2| Grid 2,1 data | Grid 1,1 data |
 
 
 
-5. ### Another Section
-    > #### EXAMPLE 10
+5. #### Another Section
+    > ##### EXAMPLE 10
     > Sections for the normative specification text. Fill in as needed.
     >
     > The following validates the styles used for the headers.
@@ -159,23 +173,23 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     > **DELETE THIS COMMENT.**
 
 
-    1. Another Sub-section
-        > #### EXAMPLE 11
+    1. ##### Another Sub-section
+        > ###### EXAMPLE 11
         >
         > More text goes here ...
         >
         > **DELETE THIS COMMENT**
 ^
 
-1. {:.alpha}### Static Confirmance Requirements (Normative)
+1. {:.alpha}#### Static Confirmance Requirements (Normative)
     The notation used in this appendix is specified in [SCRRULES].
 
-    > #### EXAMPLE 12
+    > ##### EXAMPLE 12
     > The following is a model of a set of SCR tables.
     >
     > **DELETE THIS COMMENT.**
 
-    1. SCR for XYZ Client
+    1. ##### SCR for XYZ Client
         |Item         |Function             |Reference    |Requirement                                  |
         |-----------------------------------------------------------------------------------------------|
         | XYZ-C-001-M | Something mandatory | Section x.y | (XYZ-C-004-O OR XYZ-C-003-M) AND XYZ-C-002-O|
@@ -184,15 +198,15 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         | XYZ-C-004-O | Dependencies on ZYX | Section x.y |ZYX:MCF                                      |
         Table. 2 SCR for XYZ Client
 
-    2.  ### 1 SCR for XYZ Client
+    2.  ##### 1 SCR for XYZ Client
 
-2. Additional Appendix
-    > ####EXAMPLE 13
+2. #### Additional Appendix
+    > ##### EXAMPLE 13
     >
     > If needed, add annex to provide additional information to support the document.
     >
     >  In general, this information should be informative, as normative material should be contained in the primary body of the document.
-    > 
+    >
     > Note that the styles for the headers in the appendix (App1, App2, App3) are different than the main body. The use below is intended to validate the styles to be used. Remove if not needed.
     >
     > **DELETE THIS COMMENT**
@@ -208,11 +222,11 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
                 More text goes here
 
                 > EXAMPLE 14
-                > 
+                >
                 > Text goes here.
-              
+
 3. ## References
-  
+
     1. ### Normative references
         [RFC2119]
           : S. Bradner. [Key words for use in RFCs to Indicate Requirement Levels](https://tools.ietf.org/html/rfc2119). March 1997. Best Current Practice. URL: <https://tools.ietf.org/html/rfc2119>
