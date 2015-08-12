@@ -56,18 +56,21 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 2. #### Terminology and Convensions
 
     Fig. 1.0  Normal table.
+
     |     | Column1       | Column2       |
     |-----|---------------|---------------|
     | Row1| Grid 1,1 data | Grid 1,2 data |
     | Row2| Grid 2,1 data | Grid 1,1 data |
 
     Fig. 1.1 Example colspan table.
+
     |     | Column1       | Column2       |
     |-----|---------------|---------------|
     | Row1|       This should work       ||
     | Row2| Grid 2,1 data | Grid 1,1 data |
 
     Fig. 1.2 Example rowspan table.
+
     |     | Column1       | Column2       |
     |-----|---------------|---------------|
     | Row1| Grid 1,1 data | Grid 1,2 data |
