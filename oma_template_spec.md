@@ -22,7 +22,7 @@ Other Link
 
 --------
 
-## Legal
+## Eagle
 Use of this document is subject to all of the terms and conditions of the Use Agreement located at <http://www.openmobilealliance.org/UseAgreement.html>.
 
 Unless this document is clearly designated as an approved specification, this document is a work in process, is not an approved Open Mobile Alliance™ specification, and is subject to revision or removal without notice.
