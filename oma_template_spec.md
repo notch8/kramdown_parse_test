@@ -47,19 +47,19 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 ### Table of Tables
 
-1. #### Scope
+* #### Scope
     > #### EXAMPLE 1
     > Define as it relates to Open Mobile Alliance Activity. If it adds clarity, define what is not in the scope.
     >
     > DELETE THIS COMMENT.
 
-2. #### Terminology and Conventsions
-    1. ### Conventions
+* #### Terminology and Conventsions
+    * ### Conventions
         The key words “must”, “must not”, “required”, “shall”, “shall not”, “should”, “should not”, “recommended”, “may”, and “optional” in this document are to be interpreted as described in [RFC2119].
 
         All sections and appendixes, except “Scope” and “Introduction”, are normative, unless they are explicitly indicated to be informative.
 
-    2. ### Definitions
+    * ### Definitions
         Definition Title 1
           : Defintion Data 1 (description).
 
@@ -68,14 +68,14 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
         Kindly consult [OMADICT][] for more definitions used in this document.
 
-    3. ### Abreviations
+    * ### Abreviations
         Abbreviation 1
           : Definition Data for Abbreviation 1.
         Abbreviation 2
           : Definition Data for Abbreviation 2.
     Kindly consult [OMADICT][] for more abbreviations used in this document.
 
-3. #### Introduction
+* #### Introduction
     > #### EXAMPLE 2
     > From a market perspective...
     >
@@ -85,7 +85,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     > * Consider the target audience and provide deployment examples as possible.
     > **TO BE DELETED.**
 
-    1. ### Version 1.0
+    * ### Version 1.0
         > #### EXAMPLE 3
         > This section provides a high level, concise and informative description of the main functionality supported in the initial version of the specification.
         >
@@ -93,14 +93,14 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         >
         > **DELETE THIS COMMENT.**
 
-    2. ### Version x.y
+    * ### Version x.y
         > #### EXAMPLE 4
         > This section should be included for each new major or minor version of the specifications. It should provide a high level, concise and informative description of the new or modified functionaliy introduced in this version of the specification, compared to the previous version.
         >
         > The description should be brief, target lenght should be a few paragraphs. When the enabler or reference release is finished, this description should be aligned with the final functionality differences.
         >
         > **DELETE THIS COMMENT.**
-    3. ### Version x.y.z
+    * ### Version x.y.z
         > #### EXAMPLE 5
         > This section should be included for each new service release of the specification.
         >
@@ -108,7 +108,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         >
         > **DELETE THIS COMMENT**
 
-4. #### Sections As Needed
+* #### Sections As Needed
     > #### EXAMPLE 6
     > Sections for the normative specification text. Fill in as needed.
     >
@@ -116,7 +116,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     >
     > **DELETE THIS COMMENT.**
 
-    1. ### Example Level 2
+    * ### Example Level 2
         > #### EXAMPLE 7
         > Sections for the normative specification text. Fill in as needed.
         >
@@ -125,7 +125,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         > **DELETE THIS COMMENT.**
 
 
-        1. #### Example Level 3
+        * #### Example Level 3
             > #### EXAMPLE 8
             > Sections for the normative specification text. Fill in as needed.
             >
@@ -133,7 +133,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
             >
             > **DELETE THIS COMMENT.**
 
-            1. ##### Example Level 4
+            * ##### Example Level 4
               > #### EXAMPLE 9
               > Sections for the normative specification text. Fill in as needed.
               >
@@ -150,7 +150,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 
 
-5. #### Another Section
+* #### Another Section
     > #### EXAMPLE 10
     > Sections for the normative specification text. Fill in as needed.
     >
@@ -159,7 +159,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     > **DELETE THIS COMMENT.**
 
 
-    1. Another Sub-section
+    * Another Sub-section
         > #### EXAMPLE 11
         >
         > More text goes here ...
@@ -167,7 +167,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         > **DELETE THIS COMMENT**
 ^
 
-1. {:.alpha}### Static Confirmance Requirements (Normative)
+* {:.alpha}### Static Confirmance Requirements (Normative)
     The notation used in this appendix is specified in [SCRRULES].
 
     > #### EXAMPLE 12
@@ -175,7 +175,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     >
     > **DELETE THIS COMMENT.**
 
-    1. SCR for XYZ Client
+    * SCR for XYZ Client
         |Item         |Function             |Reference    |Requirement                                  |
         |-----------------------------------------------------------------------------------------------|
         | XYZ-C-001-M | Something mandatory | Section x.y | (XYZ-C-004-O OR XYZ-C-003-M) AND XYZ-C-002-O|
@@ -184,9 +184,9 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         | XYZ-C-004-O | Dependencies on ZYX | Section x.y |ZYX:MCF                                      |
         Table. 2 SCR for XYZ Client
 
-    2.  ### 1 SCR for XYZ Client
+    *  ### 1 SCR for XYZ Client
 
-2. Additional Appendix
+* Additional Appendix
     > ####EXAMPLE 13
     >
     > If needed, add annex to provide additional information to support the document.
@@ -197,13 +197,13 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     >
     > **DELETE THIS COMMENT**
 
-    1. App Headers
+    * App Headers
         Text goes here
 
-        1. #### More Headers
+        * #### More Headers
             More text goes here.
 
-            1. *Even More Headers*
+            * *Even More Headers*
 
                 More text goes here
 
@@ -211,13 +211,13 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
                 > 
                 > Text goes here.
               
-3. ## References
+* ## References
   
-    1. ### Normative references
+    * ### Normative references
         [RFC2119]
           : S. Bradner. [Key words for use in RFCs to Indicate Requirement Levels](https://tools.ietf.org/html/rfc2119). March 1997. Best Current Practice. URL: <https://tools.ietf.org/html/rfc2119>
 
-    2. ### Informative references
+    * ### Informative references
         <a name='omadict' />
         \[OMADICT\]
           : The Open Mobile Alliance. [OMA Dictionary][]. 2015-05-14. URL: <http://www.openmobilealliance.org>
