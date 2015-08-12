@@ -47,13 +47,13 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 ### Table of Tables
 
-1. ### Scope
+1. #### Scope
     > #### EXAMPLE 1
     > Define as it relates to Open Mobile Alliance Activity. If it adds clarity, define what is not in the scope.
     >
     > DELETE THIS COMMENT.
 
-2. ### Terminology and Conventsions
+2. #### Terminology and Conventsions
     1. ### Conventions
         The key words “must”, “must not”, “required”, “shall”, “shall not”, “should”, “should not”, “recommended”, “may”, and “optional” in this document are to be interpreted as described in [RFC2119].
 
@@ -75,7 +75,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
           : Definition Data for Abbreviation 2.
     Kindly consult [OMADICT][] for more abbreviations used in this document.
 
-3. ### Introduction
+3. #### Introduction
     > #### EXAMPLE 2
     > From a market perspective...
     >
@@ -108,7 +108,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         >
         > **DELETE THIS COMMENT**
 
-4. ### Sections As Needed
+4. #### Sections As Needed
     > #### EXAMPLE 6
     > Sections for the normative specification text. Fill in as needed.
     >
@@ -150,7 +150,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 
 
-5. ### Another Section
+5. #### Another Section
     > #### EXAMPLE 10
     > Sections for the normative specification text. Fill in as needed.
     >
