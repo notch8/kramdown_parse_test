@@ -55,6 +55,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 2. #### Terminology and Convensions
 
+    Fig. 1.0  Normal table.
     |     | Column1       | Column2       |
     |-----|---------------|---------------|
     | Row1| Grid 1,1 data | Grid 1,2 data |
@@ -159,7 +160,6 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
               >
               > **DELETE THIS COMMENT.**
 
-              Fig. 1 Example Figure
 
 
 
