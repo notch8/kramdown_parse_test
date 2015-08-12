@@ -43,7 +43,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 ### Table of Contents
 
-### Table of Figures
+#### Table of Figures
 
 ### Table of Tables
 
