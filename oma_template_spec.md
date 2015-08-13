@@ -1,4 +1,5 @@
-<link href="./oma_template_spec.css" rel="stylesheet">
+<link href="/Users/jclemans/Code/open_mobile_alliance/kramdown_parse_test/oma_template_spec.css" rel="stylesheet">
+
 
 [Editor Name]: http://www.example.com
 [Editor Company]: http://www.example.com
@@ -31,7 +32,7 @@ You may use this document or any part of the document for internal or educationa
 
 Each Open Mobile Alliance member has agreed to use reasonable endeavors to inform the Open Mobile Alliance in a timely manner of Essential IPR as it becomes aware that the Essential IPR is related to the prepared or published specification. However, the members do not have an obligation to conduct IPR searches. The declared Essential IPR is publicly available to members and non-members of the Open Mobile Alliance and may be found on the "OMA IPR Declarations" list at <http://www.openmobilealliance.org/ipr.html>. The Open Mobile Alliance has not conducted an independent IPR review of this document and the information contained herein, and makes no representations or warranties regarding third party IPR, including without limitation patents, copyrights or trade secret rights. This document may contain inventions for which you must obtain licenses from third parties before making, using or selling the inventions. Defined terms above are set forth in the schedule to the Open Mobile Alliance Application Form.
 
-NO REPRESENTATIONS OR WARRANTIES (WHETHER EXPRESS OR IMPLIED) ARE MADE BY THE OPEN MOBILE ALLIANCE OR ANY OPEN MOBILE ALLIANCE MEMBER OR ITS AFFILIATES REGARDING ANY OF THE IPR’S REPRESENTED ON THE “OMA IPR DECLARATIONS” LIST, INCLUDING, BUT NOT LIMITED TO THE ACCURACY, COMPLETENESS, VALIDITY OR RELEVANCE OF THE INFORMATION OR WHETHER OR NOT SUCH RIGHTS ARE ESSENTIAL OR NON-ESSENTIAL.
+NO REPRESENTATIONS OR WARRANTIES (WHETHER EXPRESS OR IMPLIED) ARE MADE BY THE OPEN MOBILE ALLIANCE OR ANY OPEN MOBILE ALLIANCE MEMBER OR ITS AFFILIATES REGARDING ANY OF THE IPR’S REPRESENTED ON THE "OMA IPR DECLARATIONS" LIST, INCLUDING, BUT NOT LIMITED TO THE ACCURACY, COMPLETENESS, VALIDITY OR RELEVANCE OF THE INFORMATION OR WHETHER OR NOT SUCH RIGHTS ARE ESSENTIAL OR NON-ESSENTIAL.
 
 THE OPEN MOBILE ALLIANCE IS NOT LIABLE FOR AND HEREBY DISCLAIMS ANY DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OF DOCUMENTS AND THE INFORMATION CONTAINED IN THE DOCUMENTS.
 
@@ -41,25 +42,25 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 ---
 
-### Table of Contents
+# Table of Contents
 
-#### Table of Figures
+# Table of Figures
 
-### Table of Tables
+# Table of Tables
 
-1. #### Scope
-    > ## EXAMPLE 1
+1. ## Scope
+    > ### EXAMPLE 1
     > Define as it relates to Open Mobile Alliance Activity. If it adds clarity, define what is not in the scope.
     >
     > DELETE THIS COMMENT.
 
-2. #### Terminology and Conventsions
-    1. ##### Conventions
-        The key words “must”, “must not”, “required”, “shall”, “shall not”, “should”, “should not”, “recommended”, “may”, and “optional” in this document are to be interpreted as described in [RFC2119].
+2. ## Terminology and Conventsions
+    1. ### Conventions
+        The key words "must", "must not", "required", "shall", "shall not", "should", "should not", "recommended", "may", and "optional" in this document are to be interpreted as described in [RFC2119].
 
-        All sections and appendixes, except “Scope” and “Introduction”, are normative, unless they are explicitly indicated to be informative.
+        All sections and appendixes, except "Scope" and "Introduction", are normative, unless they are explicitly indicated to be informative.
 
-    2. ##### Definitions
+    2. ### Definitions
         Definition Title 1
           : Defintion Data 1 (description).
 
@@ -68,15 +69,15 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
         Kindly consult [OMADICT][] for more definitions used in this document.
 
-    3. ##### Abreviations
+    3. ### Abreviations
         Abbreviation 1
           : Definition Data for Abbreviation 1.
         Abbreviation 2
           : Definition Data for Abbreviation 2.
     Kindly consult [OMADICT][] for more abbreviations used in this document.
 
-3. #### Introduction
-    > ##### EXAMPLE 2
+3. ## Introduction
+    > ### EXAMPLE 2
     > From a market perspective...
     >
     > * What can you do with this specification?
@@ -85,39 +86,39 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     > * Consider the target audience and provide deployment examples as possible.
     > **TO BE DELETED.**
 
-    1. ##### Version 1.0
-        > ###### EXAMPLE 3
+    1. ### Version 1.0
+        > #### EXAMPLE 3
         > This section provides a high level, concise and informative description of the main functionality supported in the initial version of the specification.
         >
         > The description should be brief, target length should be a few paragraphs. When the enabler or reference release is finished, this description should be aligned with the final functionality.
         >
         > **DELETE THIS COMMENT.**
 
-    2. ##### Version x.y
-        > ###### EXAMPLE 4
+    2. ### Version x.y
+        > #### EXAMPLE 4
         > This section should be included for each new major or minor version of the specifications. It should provide a high level, concise and informative description of the new or modified functionaliy introduced in this version of the specification, compared to the previous version.
         >
         > The description should be brief, target lenght should be a few paragraphs. When the enabler or reference release is finished, this description should be aligned with the final functionality differences.
         >
         > **DELETE THIS COMMENT.**
-    3. ##### Version x.y.z
-        > ###### EXAMPLE 5
+    3. ### Version x.y.z
+        > #### EXAMPLE 5
         > This section should be included for each new service release of the specification.
         >
         > It should describe at at high level the main changes made to the specification compared to the previous version. The description should be brief, target lenght should be one paragraph.
         >
         > **DELETE THIS COMMENT**
 
-4. #### Sections As Needed
-    > ##### EXAMPLE 6
+4. ## Sections As Needed
+    > ### EXAMPLE 6
     > Sections for the normative specification text. Fill in as needed.
     >
     > The following validates the styles used for the headers.
     >
     > **DELETE THIS COMMENT.**
 
-    1. ##### Example Level 2
-        > ###### EXAMPLE 7
+    1. ### Example Level 2
+        > #### EXAMPLE 7
         > Sections for the normative specification text. Fill in as needed.
         >
         > The following validates the styles used for the headers.
@@ -125,16 +126,16 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         > **DELETE THIS COMMENT.**
 
 
-        1. ###### Example Level 3
-            > ####### EXAMPLE 8
+        1. #### Example Level 3
+            > ##### EXAMPLE 8
             > Sections for the normative specification text. Fill in as needed.
             >
             > The following validates the styles used for the headers.
             >
             > **DELETE THIS COMMENT.**
 
-            1. ####### Example Level 4
-              > ######## EXAMPLE 9
+            1. ##### Example Level 4
+              > ###### EXAMPLE 9
               > Sections for the normative specification text. Fill in as needed.
               >
               > The following validates the styles used for the headers.
@@ -150,8 +151,8 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 
 
-5. #### Another Section
-    > ##### EXAMPLE 10
+5. ## Another Section
+    > ### EXAMPLE 10
     > Sections for the normative specification text. Fill in as needed.
     >
     > The following validates the styles used for the headers.
@@ -159,35 +160,37 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     > **DELETE THIS COMMENT.**
 
 
-    1. ##### Another Sub-section
-        > ###### EXAMPLE 11
+    1. ### Another Sub-section
+        > #### EXAMPLE 11
         >
         > More text goes here ...
         >
         > **DELETE THIS COMMENT**
 ^
 
-1. {:.alpha}#### Static Confirmance Requirements (Normative)
+1. {:.alpha}## Static Confirmance Requirements (Normative)
     The notation used in this appendix is specified in [SCRRULES].
 
-    > ##### EXAMPLE 12
+    > ### EXAMPLE 12
     > The following is a model of a set of SCR tables.
     >
     > **DELETE THIS COMMENT.**
 
-    1. ##### SCR for XYZ Client
+    1. ### SCR for XYZ Client
+
         |Item         |Function             |Reference    |Requirement                                  |
         |-----------------------------------------------------------------------------------------------|
         | XYZ-C-001-M | Something mandatory | Section x.y | (XYZ-C-004-O OR XYZ-C-003-M) AND XYZ-C-002-O|
         | XYZ-C-002-O | Something optional  | Section x.y |                                             |
         | XYZ-C-003-M | Dependencies on ZYX | Section x.y |ZYX:MCF                                      |
         | XYZ-C-004-O | Dependencies on ZYX | Section x.y |ZYX:MCF                                      |
+        
         Table. 2 SCR for XYZ Client
 
-    2.  ##### 1 SCR for XYZ Client
+    2.  ### 1 SCR for XYZ Client
 
-2. #### Additional Appendix
-    > ##### EXAMPLE 13
+2. ## Additional Appendix
+    > ### EXAMPLE 13
     >
     > If needed, add annex to provide additional information to support the document.
     >
@@ -197,17 +200,17 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
     >
     > **DELETE THIS COMMENT**
 
-    1. App Headers
+    1. ### App Headers
         Text goes here
 
         1. #### More Headers
             More text goes here.
 
-            1. *Even More Headers*
+            1. ##### *Even More Headers*
 
                 More text goes here
 
-                > EXAMPLE 14
+                > ###### EXAMPLE 14
                 > 
                 > Text goes here.
               
