@@ -71,10 +71,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         Kindly consult [OMADICT][] for more definitions used in this document.
 
     3. ### Abreviations
-        Abbreviation 1
-          : Definition Data for Abbreviation 1.
-        Abbreviation 2
-          : Definition Data for Abbreviation 2.
+        *[OMA]: Open Mobile Alliance™
     Kindly consult [OMADICT][] for more abbreviations used in this document.
 
 3. ## Introduction
