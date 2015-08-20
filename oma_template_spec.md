@@ -215,7 +215,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
                 > 
                 > Text goes here.
               
-3. ## References
+3. ## Example References (hard coded in doc)
   
     1. ### Normative references
         [RFC2119]
