@@ -73,7 +73,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         Kindly consult [OMADICT][] for more definitions used in this document.
 
     3. ### Abreviations
-        *[OMA]: Open Mobile Alliance™
+        *[OMA]: Open Mobile Alliance
     Kindly consult [OMADICT][] for more abbreviations used in this document.
 
 3. ## Introduction
