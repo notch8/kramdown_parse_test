@@ -62,7 +62,8 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         All sections and appendixes, except "Scope" and "Introduction", are normative, unless they are explicitly indicated to be informative.
 
     2. ### [Definitions][]
-      *[document]: an official paper that gives information about something or that is used as proof of something [link](#Definitions)
+      *[document]: an official paper that ... [^1]
+      [^1]: Document: an official paper that gives information about something or that is used as proof of something
 
         Kindly consult [OMADICT][] for more definitions used in this document.
 
