@@ -44,4 +44,21 @@ blockquote h4{
   color: #b9ab2d;
 }
 
+abbr  {
+  border-bottom: 1px solid #666;
+  position: relative;
+  }
+
+abbr:hover:after {
+  font-size: 12px;
+  font-weight: normal;
+  position: absolute;
+  display: block;
+  padding: 1em;
+  color: #005A9C;
+  background: #D3D3D3;
+  content: attr(title);
+  right: -20px;
+}
+
 

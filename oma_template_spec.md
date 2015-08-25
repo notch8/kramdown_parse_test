@@ -62,6 +62,8 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         All sections and appendixes, except "Scope" and "Introduction", are normative, unless they are explicitly indicated to be informative.
 
     2. ### Definitions
+      sections
+          : A Markdown-superset converter
         Definition Title 1
           : Defintion Data 1 (description).
 
@@ -71,10 +73,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
         Kindly consult [OMADICT][] for more definitions used in this document.
 
     3. ### Abreviations
-        Abbreviation 1
-          : Definition Data for Abbreviation 1.
-        Abbreviation 2
-          : Definition Data for Abbreviation 2.
+        *[OMA]: Open Mobile Alliance™
     Kindly consult [OMADICT][] for more abbreviations used in this document.
 
 3. ## Introduction
