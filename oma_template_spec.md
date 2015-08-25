@@ -57,7 +57,7 @@ Used with the permission of the Open Mobile Alliance Ltd. under the terms set fo
 
 2. ## Terminology and Conventsions
     1. ### Conventions
-        The key words "must", "must not", "required", "shall", "shall not", "should", "should not", "recommended", "may", and "optional" in this document are to be interpreted as described in [RFC2119]. [[normative ref test]]
+        The key words "must", "must not", "required", "shall", "shall not", "should", "should not", "recommended", "may", and "optional" in this document are to be interpreted as described in [RFC2119]. [[!normative ref test]]
 
         All sections and appendixes, except "Scope" and "Introduction", are normative, unless they are explicitly indicated to be informative.
 
