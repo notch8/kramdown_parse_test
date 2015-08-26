@@ -1,6 +1,6 @@
 <link href="/Users/jclemans/Code/open_mobile_alliance/kramdown_parse_test/oma_template_spec.css" rel="stylesheet">
 
-![OMA Logo](assets/image001.jpg?raw=true)
+![OMA Logo](/assets/image001.jpg?raw=true)
 
 [Editor Name]: http://www.example.com
 [Editor Company]: http://www.example.com
